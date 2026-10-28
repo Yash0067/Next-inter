@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 NexPrep AI
+# 🎯 Nex inter AI
 
 ### *AI-Powered Mock Interview Platform with Intelligent Feedback & Resume Optimization*
 
